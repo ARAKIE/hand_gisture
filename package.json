@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@mediapipe/hands": "^0.4.1646424915",
+    "@mediapipe/tasks-vision": "^0.10.0",
+    "@tensorflow/tfjs": "^4.7.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^5.1.4"
+  }
+}
