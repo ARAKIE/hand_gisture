@@ -1,0 +1,28 @@
+#my-video{
+    display: block;
+      margin: 0 auto;
+      text-align: center;
+      width: 1400px;
+      height: 650px;
+}
+#my-button {
+    display: block;
+    margin:0 auto;
+    padding: 10px 20px;
+    font-size: 1.2rem;
+    background-color: #e6120a;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+    text-align:left;
+    position: fixed;
+  bottom: 20px;
+  right: 20px;
+  }
+  
+  /* Hover state of the button */
+  #next-button:hover {
+    background-color: #20ca09;
+  }

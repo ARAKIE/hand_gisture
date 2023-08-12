@@ -1,0 +1,304 @@
+#level-editor{
+    width: 1000px;
+    height: 1400px;
+    border: 1px solid #f3e034;
+    padding: 10px;
+    background-color: antiquewhite;
+    border: 1px solid #ef280d;
+    margin: auto;
+}
+#level-editor2{
+  width: 1000px;
+  height: 1400px;
+  border: 1px solid #d7871e;
+  padding: 10px;
+  margin: auto;
+  background-color: antiquewhite;
+}
+#toolbar{
+    margin-bottom: 10px;
+}
+#toolbar button{
+    margin-right: 10px;
+}
+#level-grid{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-template-rows: repeat(7,1fr);
+    grid-gap: 5px;
+}
+#level-grid2{
+  display: grid;
+  grid-template-columns: repeat(4,1fr);
+  grid-template-rows: repeat(7,1fr);
+  grid-gap: 5px;
+}
+
+  .lesson-container img{
+    width: 100px;
+  height: 100px;
+  margin-right: 10px;
+  }
+  .lesson-container {
+    padding: 20px;
+    background-color:white;
+    background-size: cover;
+    background-position: center ;
+
+  }
+  #lesson-container {
+    padding: 20px;
+    background-color:white;
+    background-size: cover;
+    background-position: center ;
+    
+    
+    
+    
+
+  }
+  #lesson-title {
+    margin-top: auto;
+  }
+  #lesson-button {
+    margin-top: 10px;
+    padding: 5px 10px;
+    border: none;
+    background-color: rgb(244, 214, 214);
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  #lesson-button1 {
+    margin-top: 10px;
+    padding: 5px 10px;
+    border: none;
+    background-color: #ef280d;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+  }#lesson-button2 {
+    margin-top: 10px;
+    padding: 5px 10px;
+    border: none;
+    background-color: #ef280d;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+  }#lesson-button3 {
+    margin-top: 10px;
+    padding: 5px 10px;
+    border: none;
+    background-color:#ef280d;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+  }#lesson-button4 {
+    margin-top: 10px;
+    padding: 5px 10px;
+    border: none;
+    background-color: #ef280d;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+  }#lesson-button5 {
+    margin-top: 10px;
+    padding: 5px 10px;
+    border: none;
+    background-color: #ef280d;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  #lesson-button6 {
+    margin-top: 10px;
+    padding: 5px 10px;
+    border: none;
+    background-color: #ef280d;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  #lesson-button7 {
+    margin-top: 10px;
+    padding: 5px 10px;
+    border: none;
+    background-color: #ef280d;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+  }#lesson-button8 {
+    margin-top: 10px;
+    padding: 5px 10px;
+    border: none;
+    background-color:#ef280d;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+  }#lesson-button9 {
+    margin-top: 10px;
+    padding: 5px 10px;
+    border: none;
+    background-color:#ef280d;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+  }#lesson-button10 {
+    margin-top: 10px;
+    padding: 5px 10px;
+    border: none;
+    background-color: #ef280d;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+  }#lesson-button11 {
+    margin-top: 10px;
+    padding: 5px 10px;
+    border: none;
+    background-color: #ef280d;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+  }#lesson-button12 {
+    margin-top: 10px;
+    padding: 5px 10px;
+    border: none;
+    background-color: #ef280d;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+  }#lesson-button13 {
+    margin-top: 10px;
+    padding: 5px 10px;
+    border: none;
+    background-color: #ef280d;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+  }#lesson-button14 {
+    margin-top: 10px;
+    padding: 5px 10px;
+    border: none;
+    background-color: #ef280d;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+  }#lesson-button15 {
+    margin-top: 10px;
+    padding: 5px 10px;
+    border: none;
+    background-color: #ef280d;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+  }#lesson-button16 {
+    margin-top: 10px;
+    padding: 5px 10px;
+    border: none;
+    background-color: #ef280d;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+  }#lesson-button17 {
+    margin-top: 10px;
+    padding: 5px 10px;
+    border: none;
+    background-color: #ef280d;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+  }#lesson-button18 {
+    margin-top: 10px;
+    padding: 5px 10px;
+    border: none;
+    background-color: #ef280d;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+  }#lesson-button19 {
+    margin-top: 10px;
+    padding: 5px 10px;
+    border: none;
+    background-color: #ef280d;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+  }#lesson-button20 {
+    margin-top: 10px;
+    padding: 5px 10px;
+    border: none;
+    background-color: #ef280d;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+  }#lesson-button21 {
+    margin-top: 10px;
+    padding: 5px 10px;
+    border: none;
+    background-color: #ef280d;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+  }#lesson-button22 {
+    margin-top: 10px;
+    padding: 5px 10px;
+    border: none;
+    background-color: #ef280d;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+  }#lesson-button23 {
+    margin-top: 10px;
+    padding: 5px 10px;
+    border: none;
+    background-color: #ef280d;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+  }#lesson-button24 {
+    margin-top: 10px;
+    padding: 5px 10px;
+    border: none;
+    background-color: #ef280d;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+  }#lesson-button25 {
+    margin-top: 10px;
+    padding: 5px 10px;
+    border: none;
+    background-color: #ef280d;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+  }#lesson-button26 {
+    margin-top: 10px;
+    padding: 5px 10px;
+    border: none;
+    background-color: #ef280d;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    
+  }#lesson-button27{
+    margin-top: 10px;
+    padding: 5px 10px;
+    border: none;
+    background-color:#ef280d;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+  }#lesson-button28 {
+    margin-top: 10px;
+    padding: 5px 10px;
+    border: none;
+    background-color: #ef280d;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    
+  }
+  #img{
+    width: 100px;
+    height:100px;
+  }
